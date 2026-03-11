@@ -12,6 +12,5 @@ O sistema funciona da seguinte forma, você escolhe um tipo de carne e o sistema
 
 ## Objetivo
 Projeto criado com fins educacionais para praticar lógica de programação, condicionais e interação com o usuário.
-
 ##Autor
 Guilherme Januzzi
